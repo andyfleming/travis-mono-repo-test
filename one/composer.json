@@ -1,0 +1,13 @@
+{
+    "name": "andyfleming/one",
+    "authors": [
+        {
+            "name": "Andy Fleming",
+            "email": "andy@andyfleming.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
